@@ -6,7 +6,7 @@ const Hackathons = () => {
     {
       title: "24-Hour SEO-Friendly Web Development Hackathon",
       organizer: "ANITS & Pivotalsoft",
-      achievement: "19th Rank out of 50 Teams",
+      achievement: "19th Rank out of 59 Teams",
       duration: "24 Hours",
       teamSize: "5 Members",
       location: "Anil Neerukonda Institute of Technology & Sciences",
@@ -26,9 +26,9 @@ const Hackathons = () => {
     {
       title: "Sus-Hacks: Smart Road Cleanliness",
       organizer: "Sus-Hacks",
-      achievement: "Innovative Solution",
-      duration: "Hackathon Event",
-      teamSize: "Team Project",
+      achievement: "Societal Probem Solving",
+      duration: "24 Hours",
+      teamSize: "4 Members",
       location: "VIIT,Duvvada",
       problemStatement: "Smart Road Cleanliness Monitoring System",
       description: "Developed a smart system that notifies government municipal authorities when users upload images of unclean roads, complete with location pinning, status tracking, and reward system for community participation.",
